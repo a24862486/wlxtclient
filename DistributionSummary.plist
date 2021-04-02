@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>迈安途货主端.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>2731F0E62E60B8322603F449866A73EDBAF6C076</string>
+				<key>dateExpires</key>
+				<string>2022/3/16</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>PT2JU3P7GU.cn.maitexun.wlxtclient</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:wlxt.maitexun.cn</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>PT2JU3P7GU</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>迈安途货主端.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>10fdd6e4-7186-4aed-b90c-9f5b41640a08</string>
+				<key>name</key>
+				<string>wlxtclientADHoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>PT2JU3P7GU</string>
+				<key>name</key>
+				<string>Qingdao Port Anbang Changyou International Logistics Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
